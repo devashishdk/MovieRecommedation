@@ -4,6 +4,6 @@ Best movie is suggested
 
 Criterias :
 
-Better Ratings
-Less Movie Time
+Better Ratings,
+Less Movie Time, 
 New Movie
